@@ -6,9 +6,9 @@
 
 - Resume ... https://pastebin.com/vdcPLwE3
 
--Twitter: https://twitter.com/yaboi_ramirez
--LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
--Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile
+Twitter: https://twitter.com/yaboi_ramirez
+LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
+Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
