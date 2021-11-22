@@ -5,6 +5,9 @@
 - 📫 How to reach me ... brandon.evaristo.ramirez@gmail.com
 - Resume ... https://pastebin.com/vdcPLwE3
 
+https://twitter.com/yaboi_ramirez
+https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile
+
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
