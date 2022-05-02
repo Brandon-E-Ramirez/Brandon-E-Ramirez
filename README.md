@@ -12,12 +12,10 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 <img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" />
 
-![](https://github.com/Brandon-E-Ramirez/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Brandon-E-Ramirez/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 <!---
-![](https://github.com/Brandon-E-Ramirez/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Brandon-E-Ramirez/github-stats/blob/master/generated/languages.svg)
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
