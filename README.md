@@ -10,8 +10,9 @@ Twitter: https://twitter.com/yaboi_ramirez
 LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
 Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile
 
-<!---![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/32860080/166308722-86da7f0d-712a-4f8a-be4f-c6b0cf901526.gif width="40" height="40" )
+![courage-the-cowardly-dog-coding](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif width="40" height="40" )
 
+<!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
