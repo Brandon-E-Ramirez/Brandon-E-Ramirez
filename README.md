@@ -4,7 +4,7 @@
 - 💻 I’m looking to collaborate on ... Java/Android development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
-- Resume ... 
+- Resume ... https://pastebin.com/iWHWkTcB
 
 Twitter: https://twitter.com/yaboi_ramirez
 LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
