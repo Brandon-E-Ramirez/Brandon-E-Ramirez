@@ -1,6 +1,6 @@
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
-- 👀 I’m interested in ... software development, Java programming, and problem solving
-- 👨🏻‍💻 I’m currently learning ... Java, C#, HTML/CSS/JavaScript, React.js
+- 👀 I’m interested in ... software development, wed development, and problem solving
+- 👨🏻‍💻 I’m currently learning ... Python, C#, HTML/CSS/JavaScript, React.js
 - 💻 I’m looking to collaborate on ... Java/Android development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
