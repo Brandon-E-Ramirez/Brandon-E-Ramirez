@@ -5,7 +5,6 @@
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
 - Resume ... https://rb.gy/thvs9a
-https://github.com/Brandon-E-Ramirez/resume/raw/main/Brandon%20E%20Ramirez%20Resume.pdf
 
 Twitter: https://twitter.com/yaboi_ramirez
 LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
