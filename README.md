@@ -2,7 +2,7 @@
 
 **Digital Craftsman (Programmer/Problem Solver)**
 <p>
-My interests are software/game development, and web dev :)
+My interests are software/game development, and web dev :) 
 </p>
 
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
