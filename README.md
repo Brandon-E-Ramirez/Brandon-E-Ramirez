@@ -14,6 +14,13 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 <img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" align="center" />
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center" />
 
+
+<img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" align="center" />
+<img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center" />
+
+![pic1]("https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif"){: style="height=300"}
+![pic2]("https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif"){: style="height=300"}
+
 ![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
