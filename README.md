@@ -1,8 +1,9 @@
 💾 Brandon E Ramirez
 
-**'Digital Craftsman (Programmer/Problem Solver)'**
+**Digital Craftsman (Programmer/Problem Solver)**
+<p>
 My interests are software/game development, and web dev :)
-
+</p>
 
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
 - 👀 I’m invested in ... machine learning, embedded systems, computer graphics
