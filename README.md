@@ -1,7 +1,13 @@
+💾 Brandon E Ramirez
+
+**'Digital Craftsman (Programmer/Problem Solver)'**
+My interests are software/game development, and web dev :)
+
+
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
-- 👀 I’m interested in ... software development, web development
-- 👨🏻‍💻 I’m currently studying ... Python, C#, HTML/CSS/JavaScript, React.js
-- 💻 I’m looking to collaborate on ... Java/Android development
+- 👀 I’m invested in ... machine learning, embedded systems, computer graphics
+- 👨🏻‍💻 I’m currently studying ... Python, JavaScript, React.js
+- 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
 <h2></h2>
