@@ -106,7 +106,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
- <img src="http://i.imgur.com/m3xrxPO.gif" alt="outer-space" style="width=500;height=1000;"> 
+ <img src="http://i.imgur.com/m3xrxPO.gif" alt="outer-space" style="width=800;height=1000;"> 
 
 
 <!---
