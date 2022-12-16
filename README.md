@@ -100,13 +100,6 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-  ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@ text in purple (and bold)@
-```
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
