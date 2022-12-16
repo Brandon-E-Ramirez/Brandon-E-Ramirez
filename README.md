@@ -91,7 +91,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 </div>
 
 <div>
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez)](https://github.com/anuraghazra/github-readme-stats)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez)
 
 </div>
 
