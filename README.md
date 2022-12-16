@@ -17,14 +17,10 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
 <div>
-<a href="https://github.com/Brandon-E-Ramirez?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/645e1ba86512362522916fcb4b4862fd029581268b93b40ab39a0dc873f936e1/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/Brandon-E-Ramirez?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
-		</a>
-		 
-		 
-		 
-<img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/351695433181a22544c877d86f7f0e131773ac1a8b1cff3c14c6672765f7db49/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f466f72726573744b6e696768743f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/Brandon-E-Ramirez?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;">		 
-		 
+
+	
+	
+	
 </div>
 
 <br>
@@ -96,7 +92,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 
 
-
+<img alt="DenverCoder1's Activity Graph" src="https://camo.githubusercontent.com/b807c710ddc8884083a448b2c39710f2a2d03741c0ffe327082367c2b84db275/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170682f3f757365726e616d653d44656e766572436f646572312662675f636f6c6f723d31463232324526636f6c6f723d463844383636266c696e653d46383544374626706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
 
 
 
