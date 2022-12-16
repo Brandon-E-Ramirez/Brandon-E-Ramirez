@@ -78,7 +78,9 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 </div>
 
 <br>
+<div>
 <h2></h2>
+</div>
 
 <div>
  <ul style="list-style-type:disk;">
