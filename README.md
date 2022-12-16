@@ -108,7 +108,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
   
  
  <img src="https://i.pinimg.com/originals/a1/34/c0/a134c0110a7254231860ceb57d9bcb53.gif" alt="Computer Man" style=""> 
-
+ <img src="[https://i.pinimg.com/originals/a1/34/c0/a134c0110a7254231860ceb57d9bcb53.gif](https://64.media.tumblr.com/fc671558a154e20251fc7e75ccba938a/tumblr_p29irjTxms1wvcbfqo1_1280.gif)" alt="Computer Man" style=""> 
 
 
 <!---
