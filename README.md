@@ -107,7 +107,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
   
  
 
-
+<div>
 	
 <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="reume_img" title="Check out my resume" style="width:60px;height:60px;display: inline-block;"></a>
 
@@ -119,7 +119,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 <a href="https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stackOF_img" title="Check out my Stack Overflow" style="width:60px;height:60px;display: inline-block;"></a>
 
-	
+</div>
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
