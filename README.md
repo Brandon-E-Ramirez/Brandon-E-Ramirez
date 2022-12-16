@@ -46,7 +46,7 @@ My interests are software/game development, and web dev :)
 	
 </div>
 
-
+<br>
 <h2></h2>
 
 
