@@ -137,7 +137,17 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 <a href="https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stackOF_img" title="Check out my Stack Overflow" style="width:60px;height:60px;display: inline-block;float:left;"></a>
 </p>
 
-
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="img/image1.png" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image2.png" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image3.png" width="400"/>
+     </div>
+</div>
 
 
 
