@@ -110,20 +110,16 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 	
 <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="reume_img" title="Check out my resume" style="width:60px;height:60px;display: inline-block;"></a>
-		
 
-		
-		
-		
-		
-		
-		
-	
+<a href="https://dot.cards/brandon_e_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/1055/1055204.png" alt="links_img" title="Check out my other links" style="width:60px;height:60px;display: inline-block;"></a>
+
+<a href="https://twitter.com/yaboi_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="twitter_img" title="Check out my Twitter" style="width:60px;height:60px;display: inline-block;"></a>
+
+<a href="https://www.linkedin.com/in/brandon-e-ramirez/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedIn_img" title="Check out my LinkedIn" style="width:60px;height:60px;display: inline-block;"></a>
+
+<a href="https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stackOF_img" title="Check out my Stack Overflow" style="width:60px;height:60px;display: inline-block;"></a>
 
 	
-	
-
- 
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
