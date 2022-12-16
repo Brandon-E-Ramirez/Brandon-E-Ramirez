@@ -28,6 +28,8 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 
   <a href="https://github.com/brandon-e-ramirez?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yaboi_ramirez?style=social">
 </p>
 
 <br>
