@@ -87,8 +87,8 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 <br>
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=moltack)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&show_icons=true&theme=moltack&layout="compact" )]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact)]
 
 
 
