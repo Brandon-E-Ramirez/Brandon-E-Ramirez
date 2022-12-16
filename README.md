@@ -24,7 +24,12 @@ My interests are software/game development, and web dev :)
 		 
 </div>
 
+<div>
+<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
+ Languages and Tools
 
+
+</div>
 
 
 <h2></h2>
