@@ -92,6 +92,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
   <li>Twitter: https://twitter.com/yaboi_ramirez</li>
   <li>LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/</li>
   <li>Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile</li>
+  <li>🧠 Leetcode ...https://leetcode.com/yaboi_sakurai/</li>
 </ul> 
 </div>
 
