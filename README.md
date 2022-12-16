@@ -108,9 +108,10 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
  
 <div>
 
-<span><p style="line-height: 20px;">Resume</p>
+<p style="line-height: 20px;">Resume</p>
+<a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="reume_img" title="Check out my resume" style="width:60px;height:60px;"></a>
 	
- <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="HTML tutorial" title="Check out my resume" style="width:60px;height:60px;display: inline-block;"></a></span>
+
 	
 	
 	
