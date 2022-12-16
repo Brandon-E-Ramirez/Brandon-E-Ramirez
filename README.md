@@ -105,7 +105,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-  
+  <a href="https://www.flaticon.com/free-icons/portfolio" alt="resume_img" title="Check out my resume">Resume</a>
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
