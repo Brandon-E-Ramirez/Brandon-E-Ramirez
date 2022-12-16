@@ -107,47 +107,6 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
   
  
 
-<div>
-	
-<a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="reume_img" title="Check out my resume" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://dot.cards/brandon_e_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/1055/1055204.png" alt="links_img" title="Check out my other links" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://twitter.com/yaboi_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="twitter_img" title="Check out my Twitter" style="width:60px;height:60px;float: left;
-  width: 33.33%;
-  padding: 5px;"></a>
-
-<a href="https://www.linkedin.com/in/brandon-e-ramirez/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedIn_img" title="Check out my LinkedIn" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stackOF_img" title="Check out my Stack Overflow" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-</div>
-
-<p float="left">
-  <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="reume_img" title="Check out my resume" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://dot.cards/brandon_e_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/1055/1055204.png" alt="links_img" title="Check out my other links" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://twitter.com/yaboi_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="twitter_img" title="Check out my Twitter" style="width:60px;height:60px;float: left;
-  width: 33.33%;
-  padding: 5px;"></a>
-
-<a href="https://www.linkedin.com/in/brandon-e-ramirez/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="linkedIn_img" title="Check out my LinkedIn" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-
-<a href="https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stackOF_img" title="Check out my Stack Overflow" style="width:60px;height:60px;display: inline-block;float:left;"></a>
-</p>
-
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="img/image1.png" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="img/image2.png" width="300"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="img/image3.png" width="400"/>
-     </div>
-</div>
 
 
 
