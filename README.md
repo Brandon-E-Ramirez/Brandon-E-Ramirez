@@ -24,6 +24,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 		 
 </div>
 
+<br>
 <div>
 <g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
  Languages and Tools
@@ -87,7 +88,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=325&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=325&theme=dark)
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez&show_icons=true&card_width=460&line_height=20&theme=moltack)
 
 
