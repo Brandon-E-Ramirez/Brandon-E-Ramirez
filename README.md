@@ -106,9 +106,9 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
  
-<div style="display: flex;align-items: center;justify-content: center;">
+<div style="display: flex;align-items: center;justify-content: center;display: inline-block;">
 	<span><p>Resume</p>
- <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="HTML tutorial" title="Check out my resume" style="width:60px;height:60px;flex-basis: 40%;"></a></span>
+ <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="HTML tutorial" title="Check out my resume" style="width:60px;height:60px;flex-basis: 40%;display: inline-block;"></a></span>
 	
 	
 	
