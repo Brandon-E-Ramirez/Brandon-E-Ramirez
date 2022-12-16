@@ -4,7 +4,7 @@
 <code>
 <i>Digital Craftsman</i> (Creator/Programmer/Problem Solver)
 </code>
-<br>
+<br><br>
 <p align="left">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yaboi_ramirez?style=social">
 
