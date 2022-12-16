@@ -83,15 +83,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <h2></h2>
 
 
-- Resume ... https://rb.gy/thvs9a
-- Other Links ... https://dot.cards/brandon_e_ramirez
-
-Twitter: https://twitter.com/yaboi_ramirez
-LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/
-Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile
-
-
- <ul style="list-style-type:none;">
+ <ul style="list-style-type:circle;">
   <li>Resume ... https://rb.gy/thvs9a</li>
   <li>Other Links ... https://dot.cards/brandon_e_ramirez</li>
   <li>Twitter: https://twitter.com/yaboi_ramirez</li>
