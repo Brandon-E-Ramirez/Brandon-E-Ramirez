@@ -4,6 +4,7 @@
 <code>
 Digital Craftsman (Creator/Programmer/Problem Solver)
 </code>
+<br>
 <p>
 Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like to make software that provides value to other people and the process of learning new and novel things. My interests are software/game development, web dev, and open source :) 
 </p>
