@@ -21,7 +21,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 👨🏻‍💻 I’m currently studying ... Python, JavaScript, React.js
 - 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
-
+<br>
 <p align="left">
   <a href="https://github.com/brandon-e-ramirez?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
