@@ -33,8 +33,6 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
-
-<br>
 <div>
 <g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
  Languages and Tools
@@ -83,7 +81,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <h2></h2>
 
 
- <ul style="list-style-type:circle;">
+ <ul style="list-style-type:disk;">
   <li>Resume ... https://rb.gy/thvs9a</li>
   <li>Other Links ... https://dot.cards/brandon_e_ramirez</li>
   <li>Twitter: https://twitter.com/yaboi_ramirez</li>
