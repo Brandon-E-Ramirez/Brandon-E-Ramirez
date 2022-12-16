@@ -83,6 +83,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <h2></h2>
 </div>
 
+<br>
 <div>
  <ul style="list-style-type:disk;">
   <li>Resume ... https://rb.gy/thvs9a</li>
