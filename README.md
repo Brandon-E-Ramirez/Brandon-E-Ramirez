@@ -113,7 +113,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 <a href="https://dot.cards/brandon_e_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/1055/1055204.png" alt="links_img" title="Check out my other links" style="width:60px;height:60px;display: inline-block;"></a>
 
-<a href="https://twitter.com/yaboi_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="twitter_img" title="Check out my Twitter" style="width:60px;height:60px;display: inline-block; float: left;
+<a href="https://twitter.com/yaboi_ramirez"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" alt="twitter_img" title="Check out my Twitter" style="width:60px;height:60px;float: left;
   width: 33.33%;
   padding: 5px;"></a>
 
