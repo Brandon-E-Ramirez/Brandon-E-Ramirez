@@ -107,19 +107,15 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
   
  
 
- <div style="display: flex;
-        align-items: center;
-        justify-content: center;">
-	<title>Resume</title>
+  <div style="display: flex;
+    align-items: center;
+    justify-content: center;">
+<h1>Resume  </h1>
 
-     <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="HTML tutorial" title="Check out my resume" style="width:60px;height:60px;flex-basis: 40%;"></a>
-   
+ <a href="https://rb.gy/thvs9a"><img src="https://cdn-icons-png.flaticon.com/128/942/942748.png" alt="HTML tutorial" title="Check out my resume" style="width:60px;height:60px;flex-basis: 40%;"></a>
 
-	
-	
-	
-	
- </div>
+
+</div>
  
 
 <!---
