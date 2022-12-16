@@ -86,7 +86,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 <br>
 
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=cobalt2)
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=bear)
 
 
 
