@@ -34,6 +34,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 📧 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
 <div>
+<div>
 <g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
  Languages and Tools
 </div>
@@ -76,7 +77,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
 data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>	
 </div>
-
+</div>
 <br>
 <div>
 <h2></h2>
