@@ -81,13 +81,13 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 <div style="display: inline-block; overflow: hidden;">
 <img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" align="center" />
-<img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center" layout="compact" />
+<img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center"/>
 </div>
 
 <br>
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=moltack)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&show_icons=true&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-e-ramirez&show_icons=true&theme=moltack&layout="compact" )
 
 
 
