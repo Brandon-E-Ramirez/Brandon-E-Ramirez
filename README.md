@@ -11,10 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+web+and+app+developer;Compiling+Errors.+.+.;Learn+something+new+everyday" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+web+and+app+developer;Compiling+Errors.+.+.;Learn+something+new+everyday)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+web+and+app+developer;Compiling+Errors.+.+.;Learn+something+new+everyday" alt="Typing SVG" /></a>
-
 
 <p>
 Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like to make software that provides value to other people and the process of learning new and novel things. My interests are software/game development, web dev, and open source :) 
