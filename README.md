@@ -107,7 +107,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
  
-
+ <img src="https://i.pinimg.com/originals/a1/34/c0/a134c0110a7254231860ceb57d9bcb53.gif" alt="Computer Man" style=""> 
 
 
 
