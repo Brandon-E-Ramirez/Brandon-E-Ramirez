@@ -80,7 +80,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <br>
 <h2></h2>
 
-
+<div>
  <ul style="list-style-type:disk;">
   <li>Resume ... https://rb.gy/thvs9a</li>
   <li>Other Links ... https://dot.cards/brandon_e_ramirez</li>
@@ -88,7 +88,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
   <li>LinkedIn: https://www.linkedin.com/in/brandon-e-ramirez/</li>
   <li>Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile</li>
 </ul> 
-
+</div>
 
 
 <div style="display: inline-block; overflow: hidden;">
