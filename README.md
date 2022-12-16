@@ -80,9 +80,9 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 </div>
 <br>
 <div>
-<h2></h2>
+<hr>
 </div>
-< hr >
+
 <br>
 <div>
  <ul style="list-style-type:disk;">
