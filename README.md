@@ -22,12 +22,13 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
-<div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
-	
-	
-	
-</div>
+  <a href="https://github.com/brandon-e-ramirez?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 <br>
 <div>
@@ -100,16 +101,7 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
-  <p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-  <a href="https://github.com/brandon-e-ramirez?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-
-	
-</p>
+  
 
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
