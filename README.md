@@ -6,7 +6,7 @@
 </code>
 <br><br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-stack+web+and+app+developer;Compiling+Errors.+.+.;Learn+something+new+everyday" /></a>
 </p>
@@ -22,7 +22,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 - 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 💌 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/brandon-e-ramirez?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
