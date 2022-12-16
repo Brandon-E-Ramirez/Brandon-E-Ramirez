@@ -91,6 +91,12 @@ Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profi
 
 </div>
 
+<div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/622b598233a452f4b46ed583c4330274fe0976cc52c57ca3b85a4ceaa1124629/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f72726573746b6e696768742673686f775f69636f6e733d74727565267468656d653d67727576626f78"><img src="https://camo.githubusercontent.com/622b598233a452f4b46ed583c4330274fe0976cc52c57ca3b85a4ceaa1124629/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d666f72726573746b6e696768742673686f775f69636f6e733d74727565267468656d653d67727576626f78" alt="Forrest's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=forrestknight&amp;show_icons=true&amp;theme=gruvbox" style="max-width: 100%;"></a></p>
+</div>
+
+
+
 ![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
