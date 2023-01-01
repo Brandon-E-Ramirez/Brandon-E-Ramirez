@@ -25,7 +25,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
 - 👀 I’m invested in ... machine learning, embedded systems, computer graphics
-- 👨🏻‍💻 I’m currently studying ... Python, JavaScript, React.js
+- 👨🏻‍💻 I’m currently studying ... Python, TypeScript, React.js
 - 💻 I’m looking to collaborate on ... Java/Android & C# development
 - 📧 How to reach me ... brandon.evaristo.ramirez@gmail.com
 
