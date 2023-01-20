@@ -101,8 +101,8 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <br>
 
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=330&theme=darcula)
-![Brandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&card_width=400&line_height=20&theme=moltack)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=300&theme=moltak)
+![Brandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&card_width=400&line_height=20&theme=gruvbox)
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
