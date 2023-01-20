@@ -3,7 +3,6 @@
 <code><i>Digital Craftsman</i> (Creator/Programmer/Problem Solver)</code>
 <br><br>
 
-
 <p align="left">
 	
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
