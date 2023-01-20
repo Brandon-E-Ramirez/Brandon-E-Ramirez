@@ -100,19 +100,13 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <br>
 
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=300&theme=aura_dark)
 ![Brandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&card_width=300&line_height=20&theme=gruvbox)
-
-![Brandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Brandon-E-Ramirez&show_icons=true&card_width=250&line_height=20&theme=gruvbox)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=300&theme=aura_dark)
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Brandon's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=brandon-e-ramirez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
- 
- 
-
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
