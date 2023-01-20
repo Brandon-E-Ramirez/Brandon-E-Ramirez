@@ -100,22 +100,13 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <br>
 
-
-![Brandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&line_height=20&theme=gruvbox)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brandon-e-ramirez&layout=compact&card_width=300&theme=transparent)
-
-
-
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=gruvbox&card_width=300" align = "center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=moltack&card_width=300" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=300" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=300" align = "center"/>
 </p>
-
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  
-  
   [![Brandon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brandon-e-ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!---
