@@ -77,7 +77,6 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <hr>
 </div>
 
-<br>
 <div>
  <ul style="list-style-type:disk;">
   <li>📰 Blog: https://digital-crafting.hashnode.dev</li>
