@@ -79,12 +79,12 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <div>
  <ul style="list-style-type:disk;">
-  <li>📰 Blog: https://digital-crafting.hashnode.dev</li>
+  <li>📰 Blog: https://external.ink?to=/digital-crafting.hashnode.dev</li>
   <li>📜 Resume: https://external.ink?to=/rb.gy/cnjkwt</li>
-  <li>⚙️ Other Links: https://dot.cards/brandon_e_ramirez</li>
-  <li>📘 Twitter: https://twitter.com/yaboi_ramirez</li>
-  <li>🚩 Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile</li>
-  <li>🧠 Leetcode: https://leetcode.com/yaboi_sakurai/</li>
+  <li>⚙️ Other Links: https://external.ink?to=/dot.cards/brandon_e_ramirez</li>
+  <li>📘 Twitter: https://external.ink?to=/twitter.com/yaboi_ramirez</li>
+  <li>🚩 Stack Overflow: https://external.ink?to=/stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile</li>
+  <li>🧠 Leetcode: https://external.ink?to=/leetcode.com/yaboi_sakurai/</li>
 </ul> 
 </div>
 
