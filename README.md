@@ -80,7 +80,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <div>
  <ul style="list-style-type:disk;">
   <li>📰 Blog: https://digital-crafting.hashnode.dev</li>
-  <li>📜 Resume: [shorturl.at/pAWZ9](https://rb.gy/cnjkwt)</li>
+  <li target="_blank">📜 Resume: https://rb.gy/cnjkwt</li>
   <li>⚙️ Other Links: https://dot.cards/brandon_e_ramirez</li>
   <li>📘 Twitter: https://twitter.com/yaboi_ramirez</li>
   <li>🚩 Stack Overflow: https://stackoverflow.com/users/17468188/yaboi-ramirez?tab=profile</li>
