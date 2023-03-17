@@ -98,8 +98,8 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <div>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=280" align = "left"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=280" align = "right"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=200" align = "left"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=200" align = "right"/>
 </p>
 </div>
 
