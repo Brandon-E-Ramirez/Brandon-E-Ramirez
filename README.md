@@ -73,6 +73,9 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 </div>
 
 <br>
+<br>
+<br>
+<br>
 <div>
 <hr>
 	<br>
