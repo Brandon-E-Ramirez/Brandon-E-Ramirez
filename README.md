@@ -73,14 +73,16 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 </div>
 
 <br>
-<br>
-<br>
-<br>
 <div>
 <hr>
 	<br>
 </div>
 <br>
+
+<div style="display: inline-block; overflow: hidden;">
+<img src="https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884_960_720.jpg" height="300" align="center"/>
+</div>
+
 <div>
  <ul style="list-style-type:disk;">
   <li>📰 Blog: https://external.ink?to=/digital-crafting.hashnode.dev</li>
