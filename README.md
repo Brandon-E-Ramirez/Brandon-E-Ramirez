@@ -76,12 +76,12 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <div>
 <hr>
 	<br>
+	<br>
+	<br>
 </div>
 <br>
 
-<div style="display: inline-block; overflow: hidden;">
-<img src="https://cdn.pixabay.com/photo/2015/08/24/12/53/banner-904884_960_720.jpg" height="300" align="center"/>
-</div>
+
 
 <div>
  <ul style="list-style-type:disk;">
