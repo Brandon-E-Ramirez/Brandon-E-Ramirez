@@ -71,13 +71,13 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>	
 </div>
 </div>
-
+<br>
+	<br>
+	<br>
 <br>
 <div>
 <hr>
-	<br>
-	<br>
-	<br>
+	
 </div>
 <br>
 
