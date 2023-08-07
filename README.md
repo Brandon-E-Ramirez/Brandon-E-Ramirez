@@ -1,3 +1,14 @@
+```
+$$$$$$$\                                     $$\                         $$$$$$$$\      $$$$$$$\                          $$\                               
+$$  __$$\                                    $$ |                        $$  _____|     $$  __$$\                         \__|                              
+$$ |  $$ | $$$$$$\  $$$$$$\  $$$$$$$\   $$$$$$$ | $$$$$$\  $$$$$$$\      $$ |           $$ |  $$ | $$$$$$\  $$$$$$\$$$$\  $$\  $$$$$$\   $$$$$$\  $$$$$$$$\ 
+$$$$$$$\ |$$  __$$\ \____$$\ $$  __$$\ $$  __$$ |$$  __$$\ $$  __$$\     $$$$$\         $$$$$$$  | \____$$\ $$  _$$  _$$\ $$ |$$  __$$\ $$  __$$\ \____$$  |
+$$  __$$\ $$ |  \__|$$$$$$$ |$$ |  $$ |$$ /  $$ |$$ /  $$ |$$ |  $$ |    $$  __|        $$  __$$<  $$$$$$$ |$$ / $$ / $$ |$$ |$$ |  \__|$$$$$$$$ |  $$$$ _/ 
+$$ |  $$ |$$ |     $$  __$$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |    $$ |           $$ |  $$ |$$  __$$ |$$ | $$ | $$ |$$ |$$ |      $$   ____| $$  _/   
+$$$$$$$  |$$ |     \$$$$$$$ |$$ |  $$ |\$$$$$$$ |\$$$$$$  |$$ |  $$ |    $$$$$$$$\      $$ |  $$ |\$$$$$$$ |$$ | $$ | $$ |$$ |$$ |      \$$$$$$$\ $$$$$$$$\ 
+\_______/ \__|      \_______|\__|  \__| \_______| \______/ \__|  \__|    \________|     \__|  \__| \_______|\__| \__| \__|\__|\__|       \_______|\________| v1.0.2
+```
+
 <h1 dir="auto"><a id="user-content-️-Brandon-E-Ramirez" class="anchor" aria-hidden="true" href="#️-Brandon-E-Ramirez"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="surfing_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c4-2642.png">🐢</g-emoji> Brandon E Ramirez (@yaboi_ramirez)</h1>
 
 <p align="left">
@@ -31,21 +42,17 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
 data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
-<!--
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"><img align="left" alt="JavaScript" width="30px" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
--->
-<!--
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
--->
-<!--
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"><img align="left" alt="HTML" width="30px" src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>	
--->
-<!--
+	
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"><img align="left" alt="CSS" width="30px" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
--->
-<!--
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667"><img align="left" alt="Git" width="30px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
--->
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667"><img align="left" alt="Bash" width="30px" src="https://camo.githubusercontent.com/df1404f038a8252dec0847c94dcd4f0be9c4491a2682bc601d276f835e8eaa5d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width: 100%;padding-bottom: 10px;"></a></p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
@@ -55,12 +62,10 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p>
 
-<!--
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"><img align="left" alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;"></a></p>
--->
-<!--
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a></p>
--->
+
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="NET CORE" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
 data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>
 
@@ -70,10 +75,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" alt="jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
 data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>	
 </div>
-
 </div>
-
-
 <br>
 
 <br>
