@@ -3,7 +3,7 @@
 <p align="left">
 
 <!--Apparently the empty line above this comment is what allows the twitter button to work? lol-->
-<code><i>"First, solve the problem. Then, write the code."</i> – John Johnson</code>
+<code><i>"First, solve the problem. Then, write the code."</i>–John Johnson</code>
 
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/brandon-e-ramirez?tab=followers">
