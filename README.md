@@ -60,6 +60,12 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 </div>
 
 
+
+
+
+
+
+
 <table style="width:100%">
 <tr>
     <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
@@ -245,7 +251,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <div>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true"&rank_icon=percentile align = "center"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
 </p>
 </div>
