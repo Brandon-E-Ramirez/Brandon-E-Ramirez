@@ -2,9 +2,11 @@
 <!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" /></a>-->
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
-> <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
+</p> 
 
+> <i>"If you can't explain it simply, you don't understand it well enough."</i> – Albert Einstein
 <p align="left">
 	
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
