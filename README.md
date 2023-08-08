@@ -44,27 +44,31 @@
 Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux and open source! :) 
 </p> <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
-
-- 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
-- 👀 I’m invested in ... machine learning, robotics, & computer graphics
-- 👨🏻‍💻 I’m currently studying ... Python, C++, React.js
-- 💻 I’m looking to collaborate on ... Java/Android & C# development
-- 📧 How to reach me ... brandon.evaristo.ramirez@gmail.com
-
-<div>
- <ul style="list-style-type:disk;">
-  <li>📰 Blog: https://external.ink?to=/digital-crafting.hashnode.dev</li>
-  <li>📜 Resume: https://external.ink?to=/rb.gy/cnjkwt</li>
-  <li>🌎 Other Links: https://external.ink?to=/dot.cards/brandon_e_ramirez</li>
-</ul> 
-</div>
-
-
-
-
-
-
-
+```yaml
+#usr-github-record
+name: Brandon E Ramirez
+located_in: Houston, Texas
+current_job: Student, Coding Sensei @ Code Ninjas
+stats: {Role:Binary Wizard,Status:Tired, XP:22, Power:83, MP:94, HP:47}
+username: [
+  "@yaboi_ramirez", 
+  "@Brandon-E-Ramirez"
+]
+email: brandon.evaristo.ramirez@gmail.com
+resume: "https://external.ink?to=/rb.gy/cnjkwt"
+blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
+dot_urls: "https://dot.cards/brandon_e_ramirez"
+education:
+[
+  "University of Houston - Clear Lake: Bachelors in Computer Science",
+  "Galveston College: Associates of Science (General Studies)"
+]
+currently_studying: ["Python","C++","React"]
+field_of_interests: ["machine learning", "robotics", "computer graphics"]
+soft-skills: ["attention to details", "hard working", "time management"]
+misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
+2023_goals: ["Code at least 1hr a day", "Wake up at 6:30 everyday", "Land developer job"]
+```
 
 <table style="width:100%">
 <tr>
