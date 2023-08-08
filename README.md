@@ -3,7 +3,6 @@
 <p align="left">
 	
 <!--Apparently the empty line above this comment is what allows the twitter button to work? lol-->
-<code><i>"First, solve the problem. Then, write code."</i> – John Johnson</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
 ![wakatime](https://wakatime.com/badge/user/5c935070-0770-4681-a15d-9ebfd498125c.svg?style=flat-square)
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
