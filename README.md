@@ -37,7 +37,8 @@
 
 <p>
 Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux and open source! :) 
-</p>
+</p> <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
+
 
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
 - 👀 I’m invested in ... machine learning, robotics, & computer graphics
@@ -214,6 +215,11 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center"/> 
 </div>
 
+|There is always something new to learn|Trying get some code done every day I can|
+|:-:|:-:|
+|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
+
+
 <br>
 
 <div>
@@ -236,10 +242,6 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <p align="center">
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-</p>
-
-<p align="center">
-  <img height="256" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 </p>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaboi_ramirez)](https://github.com/anuraghazra/github-readme-stats)
