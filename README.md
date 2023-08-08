@@ -45,15 +45,11 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 </p> <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
 ```yaml
-#usr-github-record
-name: Brandon E Ramirez
+name: Brandon Evaristo Ramirez
 located_in: Houston, Texas
 current_job: Student, Coding Sensei @ Code Ninjas
-stats: {Role:Binary Wizard,Status:Tired, XP:22, Power:83, MP:94, HP:47}
-username: [
-  "@yaboi_ramirez", 
-  "@Brandon-E-Ramirez"
-]
+stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
+username: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
 email: brandon.evaristo.ramirez@gmail.com
 resume: "https://external.ink?to=/rb.gy/cnjkwt"
 blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
@@ -63,11 +59,11 @@ education:
   "University of Houston - Clear Lake: Bachelors in Computer Science",
   "Galveston College: Associates of Science (General Studies)"
 ]
-currently_studying: ["Python","C++","React"]
+currently_studying: ["Python", "C++", "React"]
 field_of_interests: ["machine learning", "robotics", "computer graphics"]
 soft-skills: ["attention to details", "hard working", "time management"]
 misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
-2023_goals: ["Code at least 1hr a day", "Wake up at 6:30 everyday", "Land developer job"]
+2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
 ```
 
 <table style="width:100%">
