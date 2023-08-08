@@ -58,10 +58,13 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
   <li>🌎 Other Links: https://external.ink?to=/dot.cards/brandon_e_ramirez</li>
 </ul> 
 </div>
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
- Languages and Tools
-</div>
+
+
+<table style="width:100%">
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji>
+ Languages and Tools</td>
+<td>
 	
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -74,10 +77,13 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</td>
+</tr>
 
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">⚙️</g-emoji>
-Frameworks</div>
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">⚙️</g-emoji>
+Frameworks</td>
+    <td>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -88,13 +94,14 @@ Frameworks</div>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+    </td>
+</tr>
 
-
-
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
-IDEs/Tools</div>
-
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🛠️</g-emoji>	
+IDEs/Tools</td>
+    <td>
+	    
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -109,10 +116,13 @@ IDEs/Tools</div>
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    </td>
+</tr>
 
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📀</g-emoji>	
-OS</div>
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📀</g-emoji>	
+OS</td>
+    <td>
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -122,11 +132,14 @@ OS</div>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+    </td>
+</tr>
 
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
-Misc Tools</div>
-
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🕹️</g-emoji>	
+Misc Tools</td>
+    <td>
+	    
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
@@ -136,16 +149,21 @@ Misc Tools</div>
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
+    </td>
+</tr>
 
-
-<div>
-<g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📖</g-emoji>	
-Documentation/Learning</div>
-
+<tr>
+    <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">📖</g-emoji>	
+Documentation/Learning</td>
+    <td>
+	    
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+    </td>
+</tr>
+</table>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfPython)](https://github.com/Brandon-E-Ramirez/30DaysOfPython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brandon-E-Ramirez&repo=30DaysOfReact)](https://github.com/Brandon-E-Ramirez/30DaysOfReact)
@@ -244,11 +262,11 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
   [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
+	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yaboi_ramirez/6faa0a63-b850-4df7-9317-7926e8011163.png" /></a>
+</p>
+<p align="center">
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaboi_ramirez&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
-
 <!---
 ```
 				       _=|_
