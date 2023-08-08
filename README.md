@@ -210,10 +210,11 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+<!--
 <div style="display: inline-block; overflow: hidden;">
 <img src="https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif" height="300" align="center" />
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center"/> 
-</div>
+</div>-->
 
 |There is always something new to learn|Trying get some code done every day I can|
 |:-:|:-:|
