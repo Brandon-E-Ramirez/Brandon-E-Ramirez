@@ -4,11 +4,19 @@
 
 <!--Apparently the empty line above this comment is what allows the twitter button to work? lol-->
 <code><i>"First, solve the problem. Then, write code."</i> – John Johnson</code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![wakatime](https://wakatime.com/badge/user/5c935070-0770-4681-a15d-9ebfd498125c.svg?style=flat-square)
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brandon-e-ramirez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/brandon-e-ramirez?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brandon-e-ramirez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/yaboi_ramirez.svg?style=social&label=Follow%20%40yaboi_ramirez)](https://twitter.com/yaboi_ramirez)
-</p>
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaboi_ramirez/)
 
 
 ```
@@ -141,18 +149,23 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
 </div>
 
-<p align="center">
-  <img height="256" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
-</p>
 
-<p align="center">
- <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-</p>
 
  <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
 
   [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+ <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</p>
+
+<p align="center">
+  <img height="256" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
+</p>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaboi_ramirez)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
 ```
 				       _=|_
 				     _[_## ]_
@@ -171,7 +184,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 				      | We came in Peace for all Mankind |
 				       ---------------------------=apx=--
 ```
-
+-->
 <!---
 Brandon-E-Ramirez/Brandon-E-Ramirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
