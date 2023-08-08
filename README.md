@@ -24,7 +24,7 @@
 
 
 <p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like to make software that provides value to other people and the process of learning new and novel things. My interests are software/game development, web dev, and open source :) 
+Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux and open source! :) 
 </p>
 
 - 🤝 Hi, I’m @Brandon-E-Ramirez ... @yaboi_ramirez on Twitter
@@ -140,6 +140,15 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <img src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" height="265" align="center"/>
 <img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
 </div>
+
+<p align="center">
+  <img height="256" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
+</p>
+
+<p align="center">
+ <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</p>
+
  <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
 
   [![Brandon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brandon-E-Ramirez&theme=react-dark&area=true&hide_border=true&point=fbf1c7&color=83a598)](https://github.com/ashutosh00710/github-readme-activity-graph)
