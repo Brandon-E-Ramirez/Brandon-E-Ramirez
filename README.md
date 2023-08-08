@@ -227,7 +227,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 
 <div>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=230" align = "center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brandon-e-ramirez&show_icons=true&theme=monokai&card_width=230&rank_icon=percentile&show_icons=true&include_all_commits-true" align = "center"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brandon-e-ramirez&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align = "center"/>
 </p>
 </div>
@@ -247,7 +247,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
  <img height="256" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaboi_ramirez)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaboi_ramirez&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!---
 ```
