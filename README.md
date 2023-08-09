@@ -117,6 +117,12 @@ IDEs/Tools</td>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+ <a href="https://i3wm.org/">
+  <img align="left"  width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg">
+</a> 
+ <a href="https://terminator-gtk3.readthedocs.io/en/latest/">
+  <img align="left"  width="28" height="30" src="https://terminator-gtk3.readthedocs.io/en/latest/_images/icon_terminator.png">
+</a> 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -125,7 +131,6 @@ IDEs/Tools</td>
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<img align="left"  width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg">
     </td>
 </tr>
 
