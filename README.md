@@ -41,8 +41,10 @@
 
 
 <p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux and open source! :) 
-</p> <img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
+Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) 
+</p> 
+
+<img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
 ```yaml
 name: Brandon Evaristo Ramirez
@@ -65,6 +67,7 @@ soft-skills: ["attention to details", "hard working", "time management"]
 misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
 2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
 ```
+<img align="right" height="120" src="https://t4.ftcdn.net/jpg/03/08/41/21/360_F_308412175_yrqkHPciFF3Px259sqGx5qID4hrueUmT.jpg">
 
 <table style="width:100%">
 <tr>
