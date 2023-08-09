@@ -51,11 +51,11 @@ name: Brandon Evaristo Ramirez
 located_in: Houston, Texas
 current_job: Student, Coding Sensei @ Code Ninjas
 stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
-username: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
+usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
 email: brandon.evaristo.ramirez@gmail.com
 resume: "https://external.ink?to=/rb.gy/cnjkwt"
 blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
-dot_urls: "https://dot.cards/brandon_e_ramirez"
+dot_url: "https://dot.cards/brandon_e_ramirez"
 education:
 [
   "University of Houston - Clear Lake: Bachelors in Computer Science",
