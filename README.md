@@ -67,7 +67,6 @@ soft-skills: ["attention to details", "hard working", "time management"]
 misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
 2023_goals: ["Code at least 1hr a day", "Wake up early", "Land developer role"]
 ```
-<img align="right" height="120" src="https://t4.ftcdn.net/jpg/03/08/41/21/360_F_308412175_yrqkHPciFF3Px259sqGx5qID4hrueUmT.jpg">
 
 <table style="width:100%">
 <tr>
