@@ -52,7 +52,7 @@ current_job: Student, Coding Sensei @ Code Ninjas
 stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
 usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
 email: brandon.evaristo.ramirez@gmail.com
-resume: "https://external.ink?to=/rb.gy/cnjkwt"
+resume: "https://github.com/Brandon-E-Ramirez/resume"
 blog: "https://external.ink?to=/digital-crafting.hashnode.dev"
 dot_url: "https://dot.cards/brandon_e_ramirez"
 education:
