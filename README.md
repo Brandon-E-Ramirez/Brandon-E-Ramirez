@@ -257,7 +257,7 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" height="300" align="center"/> 
 </div>-->
 
-|There is always something new to learn|Trying get some code done every day I can|
+|There is always something new to learn and struggle with|I try to code whenever I have the chance|
 |:-:|:-:|
 |![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
 
@@ -271,12 +271,17 @@ data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/py
 </p>
 </div>
 
+<!--
 <div style="display: inline-block; overflow: hidden;">
 <img src="https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif" height="265" align="center"/>
 <img src="https://cdnvideo-static-ssl.ctclove.ru/uploads/test/preview_picture/3854978478.gif" height="265" align="center"/>
-</div>
+</div>-->
 
 
+
+|I would like to work at a small to medium company|I'm interested in working in services/products relating to productivity, energy, and the environment.|
+|:-:|:-:|
+|![There is always something to learn](https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif)|![Trying to get some code in every day](https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif)|
 
  <center><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</center>
 
