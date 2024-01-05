@@ -40,7 +40,7 @@
 
 
 <p>
-Hello! I'm a computer science senior at UHCL. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) https://brandon-e-ramirez.github.io/
+Hello! I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing guitar, going to the gym, digital art, writing, and teaching! My technical interests include software/game development, web dev, GNU/Linux, and open source! :) https://brandon-e-ramirez.github.io/
 </p> 
 
 <a href="https://www.youtube.com/watch?v=KlV9GvzRFs0&list=PLh3ksibDxVnW7M-6py2j4xGSMh0tB_KdK&index=116" target="_blank"><img align="right"  width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif"></a>
@@ -48,7 +48,7 @@ Hello! I'm a computer science senior at UHCL. I love to challenge myself and fin
 ```yaml
 name: Brandon Evaristo Ramirez
 located_in: Houston, Texas
-current_job: Student, Coding Sensei @ Code Ninjas
+current_job: Coding Sensei @ Code Ninjas
 stats: {Role:Binary Wizard, Status:Tired, XP:22, Power:83, MP:94, HP:47}
 usernames: ["@yaboi_ramirez", "@Brandon-E-Ramirez"]
 email: brandon.evaristo.ramirez@gmail.com
@@ -60,7 +60,7 @@ education:
   "University of Houston - Clear Lake: Bachelors in Computer Science",
   "Galveston College: Associates of Science (General Studies)"
 ]
-currently_studying: ["Python", "C++", "React"]
+currently_studying: ["Python", "node.js", "React"]
 field_of_interests: ["machine learning", "robotics", "computer graphics"]
 soft-skills: ["attention to details", "hard working", "time management"]
 misc_interests: ["cooking", "manga", "metal/blues", "mathematics", "japanese"]
